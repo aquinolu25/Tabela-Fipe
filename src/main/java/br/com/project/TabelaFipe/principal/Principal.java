@@ -6,7 +6,6 @@ import br.com.project.TabelaFipe.model.Veiculo;
 import br.com.project.TabelaFipe.service.ConsumoApi;
 import br.com.project.TabelaFipe.service.ConverteDados;
 
-import java.sql.SQLOutput;
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.List;
